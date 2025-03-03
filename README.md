@@ -6,4 +6,5 @@ This project requires the following softwares to run:
 To clone the repository, run:
 
 git clone https://github.com/Shravya-Suresh/3D-Planetarium-Software.git
+
 cd 3D-Planetarium-Software
